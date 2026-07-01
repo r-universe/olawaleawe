@@ -5,3 +5,6 @@
 [submodule "civic.icarm"]
 	path = civic.icarm
 	url = https://github.com/olawaleawe/civic.icarm
+[submodule "icarm"]
+	path = icarm
+	url = https://github.com/olawaleawe/icarm
